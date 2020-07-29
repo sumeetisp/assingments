@@ -1,0 +1,24 @@
+1) WWrite a temail@example.com
+6) email@[123.123.123.123]
+7) "email"@example.com
+15) much.”more unusual”@example.com
+16) very.unusual.”@”.unusual.com@example.com
+17) very.”(),:;<>[]”.VERY.”very@\ "very”.unusual@strange.example.com
+18) plainaddress
+19) #@%^%#$@#$@#.com
+20) @example.com
+21) Joe Smith <email@example.com>
+22) email.example.com
+23) email@example@example.com
+24) .email@example.com
+25) email.@example.com
+26) email..email@example.com
+27) あいうえお@example.com
+28) email@example.com (Joe Smith)
+29) email@example
+30) email@-example.com
+33) email@example..com
+34) Abc..123@example.com
+35) ”(),:;<>[]@example.com
+36) just”not”right@example.com
+37) this is"really"notallowed@example.com
